@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.gmg.zptag",
+      "sha256_cert_fingerprints": [
+        "65:14:0A:8B:D6:85:D0:CD:A2:87:A8:FB:42:1F:69:56:52:DC:87:C0:7E:E4:B0:E3:0F:01:D0:0A:FD:76:27:FC"
+      ]
+    }
+  }
+]
